@@ -42,6 +42,14 @@
     margin: 0px 10px 50px 10px;
 }
 
+.carousel-control-prev {
+    opacity: 1 !important;
+}
+
+.carousel-control-next {
+    opacity: 1 !important;
+}
+
 .intro {
     background-color: rgb(0, 0, 0, 0.04);
     padding: 25px;
@@ -133,7 +141,7 @@
 /* Contact */
 
 .contact{
-    background: url(../images/pexels-daniel-nouri-10135359.jpg) no-repeat;
+    background: url(../images/bannercontact.jpg) no-repeat;
 }
 
 .flexContact {
