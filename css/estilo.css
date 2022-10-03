@@ -246,6 +246,7 @@ footer h2 {
 @media screen and (max-width:800px){
     .gridmap {
         grid-template-columns: 1fr; 
+        margin: 0px;
     }
     .flexContact {
         align-items: center;
